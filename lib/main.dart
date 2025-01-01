@@ -12,6 +12,6 @@ main() {
     double area = triangle(base, height);
     print("Area is $area");
   } else {
-    print("Invaild Input!");
+    print("Invalid Input!");
   }
 }
